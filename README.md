@@ -1,1 +1,13 @@
-# personal-stress
+# Personal Stress Assessment
+
+An assessment of personal stress levels.
+
+**Live:** https://brucewade15.github.io/personal-stress/
+
+## How it works
+
+- One self contained `index.html`. There is no build step and nothing to install.
+- To run it on your own computer, open `index.html` in a browser.
+- Hosted on GitHub Pages from this repo, so a push to the main branch updates the live site.
+
+Built by Bruce Wade, EM Solutions and M37.
